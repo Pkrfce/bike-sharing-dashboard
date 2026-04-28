@@ -1,7 +1,1 @@
-
----
-
-isi sementara:
-
-```text
-Dashboard belum dideploy.
+"https://bike-sharing-dashboard-ma4vvyycy43sj8q9nz4eob.streamlit.app/"
